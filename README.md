@@ -1,2 +1,0 @@
-# AutomationData
-All Project Data
